@@ -1,0 +1,312 @@
+.first{
+    margin-left: 400px;
+}
+.pop:hover{
+  
+    border: 1px solid yellow;
+
+    color: yellow;
+    text-decoration: yellow;
+}
+ .fld{
+    height: 10vh; 
+}
+
+.backk{
+    background-image: url(../mEDIA/GP\ background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    
+}
+.ha1{
+    font-size: 50px;
+    color: white;
+    margin-top: 2rem;
+    
+  
+}
+.icon-box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid white;
+}
+.icon-box:hover{
+    border: 2px solid yellow;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.boxx{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 10rem;
+}
+
+h1{
+    color: white;
+}
+h1:hover{
+    color: yellow;
+}
+
+.fa-solid{
+    font-size: 50px;
+    color: yellow;
+ 
+}
+.amts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.twsv{
+    height: 20vh;
+}
+.tww{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+.ann{
+    color: black;
+}
+.ann:hover{
+    color: yellowgreen;
+}
+.btner{
+    border: 0px;
+    background-color: transparent;
+}
+.btner:hover{
+    border: 0px;
+    background-color: transparent;
+    color: red;
+}
+.a{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid bisque;
+    gap: 1rem;
+    width: 30%;
+    height: auto;
+    padding: 2rem;
+    transition: all 1s ease-in-out;
+}
+.a:hover{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid yellow;
+    margin-bottom: 1rem;
+    transition: all 1s ease-in-out;
+    gap: 1rem;
+    box-shadow: 5px 8px 8px;
+}
+.rowed{
+    gap: 2rem;
+    margin-left: 3%;
+    margin-bottom: 2rem;
+
+}
+.callw{
+    background-image: url(../mEDIA/building\ black.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 40vh;
+    background-attachment: fixed;
+    margin-top: 3rem;
+
+}
+.btn45{
+    background-color: transparent;
+    color: bisque;
+    width: 10rem;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 45%;
+
+
+}
+.btn45:hover{
+    background-color: rgb(234, 234, 82);
+    color: black;
+    width: 10rem;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 45%;
+
+
+}
+
+.btn34{
+    background-color: transparent;
+    height: 6vh;
+    border: 0px;
+    
+}
+.btn34:hover{
+    background-color: rgb(232, 232, 63);
+    height: 6vh;
+    border: 0px;
+    border-radius: 10px;
+    
+}
+.btn4{
+    background-color: transparent;
+    height: 6vh;
+    border: 0px;
+    margin-left: 40%;
+    
+    
+}
+.btn4:hover{
+    background-color:rgb(232, 232, 63);
+    height: 6vh;
+    border: 0px;
+    margin-left: 40%;
+    border-radius: 10px;
+}
+
+.h21{
+    color: black;
+
+}
+.ck1{
+    border: 5px solid white;;
+    height: 40vh;
+    background-image: url(../mEDIA/gp1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  
+}
+
+/* .ro{
+    height: 100vh;
+    border: 1px solid black;
+} */
+
+.ck2{
+    border: 5px solid white;;
+    height: 70vh;
+    background-image: url(../mEDIA/GP22.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ck3{
+    background-image: url(../mEDIA/gp3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+    border: 5px solid white;;
+}
+
+.ck4{
+    background-image: url(../mEDIA/gp4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    border: 5px solid white;;
+}
+.ck5{
+    background-image: url(../mEDIA/gp5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+    border: 5px solid white;;
+}
+
+.ck6{
+    background-image: url(../mEDIA/gp6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid white;
+    height: 30vh;
+}
+.ck7{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid white;
+    height: 30vh;
+    background-image: url(../mEDIA/gp7.jpg);
+}
+.ck8{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid white;
+    height: 30vh;background-image: url(../mEDIA/gp8.jpg);
+}
+.ck9{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid white;
+    height: 30vh;
+    background-image: url(../mEDIA/gp9.jpg);
+}
+.innerrr{
+    height: 70vh;
+}
+
+.dmg{
+    width: 250px;
+    height: 30vh;
+    border-radius: 50%;
+    
+
+}
+
+.asd{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    border: 5px solid white;
+}
+.card:hover{
+    
+    border: 5px solid black;
+    /* box-shadow: 10px 10px 13px; */
+}
+.xls{
+    display: flex ;
+}
+.con{
+    background-color: black;
+    color: white;
+}
+
+
